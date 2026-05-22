@@ -121,4 +121,32 @@ Hands-on CCNA labs using Cisco Packet Tracer to build practical understanding of
 
 ---
 
+## Week 5 – DHCP, OSPF & NTP Configuration
+
+### Topics
+
+* Dynamic Host Configuration Protocol (DHCP)
+* OSPF multi-router routing
+* Network Time Protocol (NTP)
+* Multi-router WAN topology
+* Automatic IP assignment
+* Time synchronization between routers
+* End-to-end connectivity verification
+
+### Key Learnings
+
+* DHCP automates IP address assignment for end devices
+* OSPF dynamically exchanges routes between interconnected routers
+* OSPF neighbor relationships enable scalable routing
+* NTP synchronizes time across all routers in the network
+* Proper routing must exist before NTP synchronization works
+* WAN links enable communication between multiple LAN networks
+* Connectivity can be verified using ping and routing tables
+
+---
+
+## Files
+
+* DHCP_NTP.pkt
+
 This repository will be updated as I progress through my CCNA journey.
